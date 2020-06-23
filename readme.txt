@@ -6,3 +6,4 @@ my 3rd change
 2nd stash test
 branch test
 1
+I push a new patch
